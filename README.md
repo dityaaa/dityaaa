@@ -3,7 +3,6 @@
 ### Hi there，I'm Aditya 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dityaaa)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/adityak.a)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dityaaa.dityaaa)
 
 - I'm interested in microservice architecture.
 - Currently working as a project manager and system analyst.
